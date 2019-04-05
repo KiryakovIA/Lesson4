@@ -43,7 +43,7 @@ function task3() {
 
 	if (play)
 	{
-		console.log('Вы выграли ' + 3000000);
+		console.log('Ваш выигрыш ' + 3000000);
 	}
 }
 
